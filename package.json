@@ -1,0 +1,7 @@
+{
+  "name": "fake-profile-shield-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Fake Social Media Profile Detection and Reporting System (Team G-9)",
+  "scripts": { "start": "npx serve . -l 5173" },
+  "license": "MIT"
+}
