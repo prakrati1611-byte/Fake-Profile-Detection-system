@@ -28,12 +28,5 @@ Landing, Login, Dashboard, Analyze Profile, Flagged Profiles (+ detail), Batch S
 ## Deploy on GitHub Pages
 Repo -> Settings -> Pages -> Deploy from branch `main` / root.
 
-## Git workflow
-```
-git init && git add . && git commit -m "Frontend v1"
-git branch -M main && git remote add origin <repo-url> && git push -u origin main
-```
-Add Paridhi under Settings -> Collaborators. Work on feature branches and open PRs.
-
 ## Note
 Model Insights metrics and all profile data are **mock/placeholder** until the backend and Kaggle-trained models are connected.
